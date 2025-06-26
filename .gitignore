@@ -1,0 +1,12 @@
+# Ignore Windows executables and build artifacts
+a.exe
+*.exe
+*.obj
+*.o
+*.out
+*.log
+# Ignore VS Code settings
+.vscode/
+# Ignore OS files
+.DS_Store
+Thumbs.db
